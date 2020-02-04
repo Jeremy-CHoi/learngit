@@ -1,0 +1,1 @@
+This tutorial is stupid, and I still don't know how to use the git. By the way, I believe OS is more difficult than compiler, but I think there will be much more fun of OS than a compiler.
